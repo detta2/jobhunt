@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JobHunt — Dashboard Lamaran Kerja</title>
+<style>
+:root{
+  --bg:#f6f8fb; --card:#ffffff; --ink:#1a2b3c; --muted:#6b7d90;
+  --blue:#0a66c2; --blue-soft:#e8f1fb; --green:#1e7a3c; --green-soft:#e6f4ea;
+  --amber:#b7791f; --amber-soft:#fdf3e0; --red:#c0392b; --red-soft:#fbe9e7;
+  --line:#e3eaf1;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5}
+.wrap{max-width:1080px;margin:0 auto;padding:24px 16px 64px}
+header{display:flex;align-items:center;gap:16px;margin-bottom:24px}
+.avatar{width:56px;height:56px;border-radius:50%;background:var(--blue);color:#fff;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:700}
+header h1{font-size:22px}
+header p{color:var(--muted);font-size:14px}
+.updated{margin-left:auto;font-size:12px;color:var(--muted);text-align:right}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:24px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+.stat .num{font-size:28px;font-weight:700}
+.stat .lbl{font-size:13px;color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;margin-bottom:20px}
+.card h2{font-size:16px;margin-bottom:12px}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.fbtn{border:1px solid var(--line);background:#fff;border-radius:20px;padding:6px 14px;font-size:13px;cursor:pointer;color:var(--muted)}
+.fbtn.active{background:var(--blue);border-color:var(--blue);color:#fff}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th{text-align:left;color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.4px;padding:10px 8px;border-bottom:2px solid var(--line)}
+td{padding:12px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+tr:last-child td{border-bottom:none}
+.badge{display:inline-block;padding:3px 10px;border-radius:12px;font-size:12px;font-weight:600}
+.st-dilamar{background:var(--blue-soft);color:var(--blue)}
+.st-screening{background:var(--amber-soft);color:var(--amber)}
+.st-interview{background:#e9e4fb;color:#5b3df0}
+.st-diterima{background:var(--green-soft);color:var(--green)}
+.st-ditolak{background:var(--red-soft);color:var(--red)}
+a.job{color:var(--blue);text-decoration:none;font-weight:600}
+a.job:hover{text-decoration:underline}
+.meta{font-size:12px;color:var(--muted)}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:var(--blue-soft);color:var(--blue);border-radius:16px;padding:4px 12px;font-size:13px}
+.empty{text-align:center;color:var(--muted);padding:32px 0;font-size:14px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+@media(max-width:700px){.grid2{grid-template-columns:1fr}table{font-size:13px}}
+.cvbox{display:flex;align-items:center;gap:12px}
+.btn{display:inline-block;background:var(--blue);color:#fff;border-radius:8px;padding:10px 18px;font-size:14px;text-decoration:none;font-weight:600}
+.btn:hover{background:#084e96}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="avatar" id="avatar">D</div>
+    <div>
+      <h1 id="pname">JobHunt</h1>
+      <p id="pheadline">Dashboard lamaran kerja</p>
+    </div>
+    <div class="updated" id="updated"></div>
+  </header>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="card">
+    <h2>🎯 Kriteria Target</h2>
+    <div id="criteria"><p class="meta">Belum diisi.</p></div>
+  </div>
+
+  <div class="card">
+    <h2>📄 CV</h2>
+    <div class="cvbox" id="cvbox"><p class="meta">CV belum diupload.</p></div>
+  </div>
+
+  <div class="card">
+    <h2>📋 Riwayat Lamaran</h2>
+    <div class="filters" id="filters"></div>
+    <div style="overflow-x:auto">
+    <table>
+      <thead><tr><th>Perusahaan</th><th>Posisi</th><th>Tanggal</th><th>Status</th><th>Catatan</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    </div>
+    <div class="empty" id="empty" style="display:none">Belum ada lamaran. Dante akan mengisi otomatis setiap melamar.</div>
+  </div>
+</div>
+
+<script>
+const STATUS = {
+  "dilamar":   ["Dilamar","st-dilamar"],
+  "screening": ["Screening","st-screening"],
+  "interview": ["Interview","st-interview"],
+  "diterima":  ["Diterima","st-diterima"],
+  "ditolak":   ["Ditolak","st-ditolak"]
+};
+let apps = [], activeFilter = "semua";
+
+async function load(){
+  const [a,p] = await Promise.all([
+    fetch("data/applications.json").then(r=>r.json()),
+    fetch("data/profile.json").then(r=>r.json())
+  ]);
+  apps = a.applications || [];
+  renderProfile(p, a.updated);
+  renderStats();
+  renderFilters();
+  renderRows();
+}
+
+function renderProfile(p, updated){
+  document.getElementById("pname").textContent = "JobHunt — " + (p.name || "detta");
+  document.getElementById("pheadline").textContent = p.headline || "Dashboard lamaran kerja";
+  document.getElementById("avatar").textContent = (p.name||"D")[0].toUpperCase();
+  document.getElementById("updated").innerHTML = updated ? "Update terakhir<br>" + updated : "";
+  const c = [];
+  if(p.target_roles?.length)   c.push("<div><b>Posisi:</b> <div class='chips' style='margin-top:6px'>" + p.target_roles.map(x=>"<span class='chip'>"+x+"</span>").join("") + "</div></div>");
+  if(p.locations?.length)      c.push("<div><b>Lokasi:</b> " + p.locations.join(", ") + "</div>");
+  if(p.work_type?.length)      c.push("<div><b>Tipe:</b> " + p.work_type.join(", ") + "</div>");
+  if(p.min_salary)             c.push("<div><b>Ekspektasi gaji:</b> " + p.min_salary + "</div>");
+  if(p.notes)                  c.push("<div class='meta'>" + p.notes + "</div>");
+  document.getElementById("criteria").innerHTML = c.length ? c.join("<div style='height:10px'></div>") : "<p class='meta'>Belum diisi.</p>";
+  const cv = document.getElementById("cvbox");
+  if(p.cv_file) cv.innerHTML = "<span>📄 " + p.cv_file.split("/").pop() + "</span><a class='btn' href='" + p.cv_file + "' download>Download</a>";
+  else cv.innerHTML = "<p class='meta'>CV belum diupload.</p>";
+}
+
+function renderStats(){
+  const n = s => apps.filter(x=>x.status===s).length;
+  const items = [
+    ["Total", apps.length, "var(--ink)"],
+    ["Dilamar", n("dilamar"), "var(--blue)"],
+    ["Screening", n("screening"), "var(--amber)"],
+    ["Interview", n("interview"), "#5b3df0"],
+    ["Diterima", n("diterima"), "var(--green)"],
+    ["Ditolak", n("ditolak"), "var(--red)"]
+  ];
+  document.getElementById("stats").innerHTML = items.map(([l,v,c]) =>
+    "<div class='stat'><div class='num' style='color:"+c+"'>"+v+"</div><div class='lbl'>"+l+"</div></div>").join("");
+}
+
+function renderFilters(){
+  const counts = {"semua": apps.length};
+  Object.keys(STATUS).forEach(s => counts[s] = apps.filter(x=>x.status===s).length);
+  document.getElementById("filters").innerHTML =
+    ["semua",...Object.keys(STATUS)].map(s =>
+      "<button class='fbtn"+(s===activeFilter?" active":"")+"' data-f='"+s+"'>" +
+      (s==="semua"?"Semua":STATUS[s][0]) + " (" + counts[s] + ")</button>").join("");
+  document.querySelectorAll(".fbtn").forEach(b => b.onclick = () => { activeFilter = b.dataset.f; renderFilters(); renderRows(); });
+}
+
+function renderRows(){
+  const list = apps.filter(x => activeFilter==="semua" || x.status===activeFilter);
+  document.getElementById("empty").style.display = apps.length ? "none" : "block";
+  document.getElementById("rows").innerHTML = list.map(x => {
+    const [lbl,cls] = STATUS[x.status] || [x.status,"st-dilamar"];
+    return "<tr><td><a class='job' href='"+(x.url||"#")+"' target='_blank' rel='noopener'>"+x.company+"</a>" +
+      (x.location ? "<div class='meta'>"+x.location+"</div>" : "") + "</td>" +
+      "<td>"+x.position+"</td><td class='meta'>"+(x.date||"—")+"</td>" +
+      "<td><span class='badge "+cls+"'>"+lbl+"</span></td>" +
+      "<td class='meta'>"+(x.notes||"—")+"</td></tr>";
+  }).join("");
+}
+
+load();
+</script>
+</body>
+</html>
