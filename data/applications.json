@@ -1,422 +1,422 @@
 {
- "applications": [
-  {
-   "company": "Hired",
-   "date": "2026-10-06",
-   "location": "Asia Pasifik (Jarak jauh)",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "position": "Data Entry Clerk (Remote)",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/jobs/view/4466322035/"
-  },
-  {
-   "company": "Hire Feed",
-   "date": "2026-10-06",
-   "location": "Asia Pasifik (Jarak jauh)",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "position": "Document Formatting Specialist (Remote)",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/jobs/view/4466097790/"
-  },
-  {
-   "company": "Hired",
-   "date": "2026-10-06",
-   "location": "Asia Pasifik (Jarak jauh)",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "position": "Document Reviewer (Remote)",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/jobs/view/4466318599/"
-  },
-  {
-   "company": "Quik Hire Staffing",
-   "date": "2026-10-06",
-   "location": "Indonesia (Jarak jauh)",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "position": "Data Specialist (Remote)",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/jobs/view/4466442333/"
-  },
-  {
-   "company": "PT Catur Sentosa Adiprima",
-   "position": "ADMIN HR",
-   "location": "Serang",
-   "date": "2026-10-06",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/posts/bukhory-harahap-161493246_lokeradminhr-share-7512801674021834752-hRNm/",
-   "notes": "Via email ke yoga.harahap@csahome.com · CV terlampir"
-  },
-  {
-   "company": "Mitracomm (klien telekomunikasi)",
-   "position": "Administrasi",
-   "location": "Bandung",
-   "date": "2026-10-06",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/posts/fadly-m-42b37617a_hiring-bandung-adminbandung-share-7511679037111488512-ZMyg/",
-   "notes": "Via email ke fadly.rozy@mitracomm.com · CV terlampir"
-  },
-  {
-   "company": "PT TRUE Finance Cabang Tegal",
-   "position": "Customer Service",
-   "location": "Tegal",
-   "date": "2026-10-06",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/posts/gadisa-maharani-8b376219a_pt-true-finance-cabang-tegal-sedang-membuka-share-7513098806285156352-1x7I/",
-   "notes": "Via email ke karir@truefinance.co.id · CV terlampir"
-  },
-  {
-   "company": "PT Surya Utama International",
-   "position": "Mine Surveyor",
-   "location": "All site Indonesia",
-   "date": "2026-10-06",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/posts/lowongantambang-lokertambang-lokermining-share-7513059454179872768-tbKn/",
-   "notes": "Via email ke recruitment@ptsui.com · CV terlampir"
-  },
-  {
-   "company": "PT Trigana Abadi Swakarsa",
-   "position": "Staff Purchasing",
-   "location": "Jakarta Pusat",
-   "date": "2026-10-06",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/posts/indri-wilya-rahayu-massie-48408a304_gmail-share-7505964316865581056-XcTS/",
-   "notes": "Via email ke hrgaopstas@gmail.com · CV terlampir"
-  },
-  {
-   "company": "Mitracomm (klien di Medan)",
-   "position": "Admin Sales",
-   "location": "Medan",
-   "date": "2026-10-06",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/posts/fadly-m-42b37617a_hiring-adminsales-adminsupport-share-7506527527314661376-d1hF/",
-   "notes": "Via email ke fadly.rozy@mitracomm.com · CV terlampir"
-  },
-  {
-   "company": "Dermaesthetics Academy",
-   "position": "Admin",
-   "location": "Bekasi (BCBD)",
-   "date": "2026-10-06",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/posts/rezka-andriansyah-67699b181_urgently-hiring-untuk-di-dermaesthetics-academy-share-7506613314253144064-SJxw/",
-   "notes": "Via email ke rezka.andriansyah10@gmail.com · CV terlampir"
-  },
-  {
-   "company": "Toko Cat Utama",
-   "position": "Driver",
-   "location": "Semarang",
-   "date": "2026-10-06",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/posts/arkenrsm_lowongankerja-loker-karir-share-7505862000283926529-pHna/",
-   "notes": "Via email ke HR@utamapaint.com · CV terlampir"
-  },
-  {
-   "company": "PT Sumber Sukses Mechinery",
-   "position": "Admin Logistik",
-   "location": "Workshop/Fabrikasi",
-   "date": "2026-10-06",
-   "status": "dilamar",
-   "url": "https://www.linkedin.com/posts/nabila-hanifah-72587b19b_lowongan-pekerjaan-admin-logistik-share-7503385100357632001-JOpp/",
-   "notes": "Via email ke ssmrecruitment.hrd@gmail.com · CV terlampir"
-  },
-  {
-   "company": "Universitas Katolik Musi Charitas",
-   "position": "Staff Administrasi",
-   "date": "2026-10-07",
-   "location": "Palembang, Sumatera Selatan",
-   "status": "gagal_terkirim",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF. MENTAL 07-10-2026 06:52 WIB: tujuan salah ketik rektorat@ukmk.ac.id (domain ukmk.ac.id tidak ada/NXDOMAIN). Alamat benar: rektorat@ukmc.ac.id (terverifikasi dari situs resmi & loker). Menunggu kirim ulang — batas lamaran 9 Okt 2026.",
-   "url": ""
-  },
-  {
-   "company": "CV Surya Niagaraya",
-   "position": "Driver Pengiriman",
-   "date": "2026-10-07",
-   "location": "Indonesia",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "Rayspeed Asia",
-   "position": "Driver Operasional",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "CV Berkat Anugerah Jaya",
-   "position": "Pengiriman Barang",
-   "date": "2026-10-07",
-   "location": "Indonesia",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "Livly Baby Shop",
-   "position": "Admin",
-   "date": "2026-10-07",
-   "location": "Indonesia",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "Oemah Semar",
-   "position": "Admin Marketplace",
-   "date": "2026-10-07",
-   "location": "Indonesia",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "PT Hilltech",
-   "position": "Driver Operasional",
-   "date": "2026-10-07",
-   "location": "Sunter, Jakarta Utara",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "PT Hasjrat Multifinance",
-   "position": "Surveyor",
-   "date": "2026-10-07",
-   "location": "Manado",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "PT Travelindo Pesona Wisata",
-   "position": "Data Entry Specialist",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4474673179/"
-  },
-  {
-   "company": "PT Surya Pertiwi Tbk",
-   "position": "Warehouse Staff",
-   "date": "2026-10-07",
-   "location": "Tangerang",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4474020638/"
-  },
-  {
-   "company": "PT Chandra Asri Pacific Tbk",
-   "position": "Transportation Administrator",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4474663315/"
-  },
-  {
-   "company": "Ultra Voucher",
-   "position": "Warehouse Officer",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4476179132/"
-  },
-  {
-   "company": "Arkhadaya Energy",
-   "position": "Sales Admin",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4474257637/"
-  },
-  {
-   "company": "Scarlett Indonesia",
-   "position": "Executive Inventory Data Entry Admin",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4474258163/"
-  },
-  {
-   "company": "Viction.id",
-   "position": "Customer Relations Officer",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim · Dilihat tim perekrutan (notif LinkedIn 7 Okt 11:11 WIB)",
-   "url": "https://www.linkedin.com/jobs/view/4471323440/"
-  },
-  {
-   "company": "bukatravel.id",
-   "position": "Ticketing Operations",
-   "date": "2026-10-07",
-   "location": "Remote",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4475112991/"
-  },
-  {
-   "company": "PT Asuransi BRI Life",
-   "position": "Procurement Team Member",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4471283403/"
-  },
-  {
-   "company": "Phoenix Contact",
-   "position": "E-Commerce Product Registration",
-   "date": "2026-10-07",
-   "location": "Tangerang",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4472390437/"
-  },
-  {
-   "company": "Thamrin Group",
-   "position": "Purchasing Staff (PIM)",
-   "date": "2026-10-07",
-   "location": "Palembang",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4467341722/"
-  },
-  {
-   "company": "Thamrin Group",
-   "position": "Admin Sales Yamaha Tj. Enim",
-   "date": "2026-10-07",
-   "location": "Muara Enim",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4468520126/"
-  },
-  {
-   "company": "PT WII Refrigerasi Tama",
-   "position": "Admin",
-   "date": "2026-10-07",
-   "location": "Indonesia",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "PT Autorent Lancar Sejahtera",
-   "position": "Driver Staff",
-   "date": "2026-10-07",
-   "location": "Indonesia",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "PT Indomas",
-   "position": "Admin PR",
-   "date": "2026-10-07",
-   "location": "Indonesia",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "Komunitas Bambu",
-   "position": "Admin Gudang",
-   "date": "2026-10-07",
-   "location": "Indonesia",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "KJPP Sugianto Prasodjo dan Rekan",
-   "position": "Administrative Staff",
-   "date": "2026-10-07",
-   "location": "Indonesia",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "Personal Driver (Jakarta)",
-   "position": "Personal Driver",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "email",
-   "notes": "Email + surat lamaran & CV PDF",
-   "url": ""
-  },
-  {
-   "company": "Electrum",
-   "position": "Surveyor Lapangan",
-   "date": "2026-10-07",
-   "location": "Jakarta Selatan",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4440118667/"
-  },
-  {
-   "company": "Terminal Flow Assurance",
-   "position": "Operations Coordinator",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4474968276/"
-  },
-  {
-   "company": "AlloFresh",
-   "position": "Buyer Admin",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4476520927/"
-  },
-  {
-   "company": "CV Gemilang Jaya Group",
-   "position": "Data Entry Operator",
-   "date": "2026-10-07",
-   "location": "Jakarta",
-   "status": "dilamar",
-   "channel": "linkedin",
-   "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
-   "url": "https://www.linkedin.com/jobs/view/4475156834/"
-  }
- ],
- "updated": "2026-10-06 17:35 WIB"
+  "applications": [
+    {
+      "company": "Hired",
+      "date": "2026-10-06",
+      "location": "Asia Pasifik (Jarak jauh)",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "position": "Data Entry Clerk (Remote)",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/jobs/view/4466322035/"
+    },
+    {
+      "company": "Hire Feed",
+      "date": "2026-10-06",
+      "location": "Asia Pasifik (Jarak jauh)",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "position": "Document Formatting Specialist (Remote)",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/jobs/view/4466097790/"
+    },
+    {
+      "company": "Hired",
+      "date": "2026-10-06",
+      "location": "Asia Pasifik (Jarak jauh)",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "position": "Document Reviewer (Remote)",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/jobs/view/4466318599/"
+    },
+    {
+      "company": "Quik Hire Staffing",
+      "date": "2026-10-06",
+      "location": "Indonesia (Jarak jauh)",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "position": "Data Specialist (Remote)",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/jobs/view/4466442333/"
+    },
+    {
+      "company": "PT Catur Sentosa Adiprima",
+      "position": "ADMIN HR",
+      "location": "Serang",
+      "date": "2026-10-06",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/posts/bukhory-harahap-161493246_lokeradminhr-share-7512801674021834752-hRNm/",
+      "notes": "Via email ke yoga.harahap@csahome.com · CV terlampir"
+    },
+    {
+      "company": "Mitracomm (klien telekomunikasi)",
+      "position": "Administrasi",
+      "location": "Bandung",
+      "date": "2026-10-06",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/posts/fadly-m-42b37617a_hiring-bandung-adminbandung-share-7511679037111488512-ZMyg/",
+      "notes": "Via email ke fadly.rozy@mitracomm.com · CV terlampir"
+    },
+    {
+      "company": "PT TRUE Finance Cabang Tegal",
+      "position": "Customer Service",
+      "location": "Tegal",
+      "date": "2026-10-06",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/posts/gadisa-maharani-8b376219a_pt-true-finance-cabang-tegal-sedang-membuka-share-7513098806285156352-1x7I/",
+      "notes": "Via email ke karir@truefinance.co.id · CV terlampir"
+    },
+    {
+      "company": "PT Surya Utama International",
+      "position": "Mine Surveyor",
+      "location": "All site Indonesia",
+      "date": "2026-10-06",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/posts/lowongantambang-lokertambang-lokermining-share-7513059454179872768-tbKn/",
+      "notes": "Via email ke recruitment@ptsui.com · CV terlampir"
+    },
+    {
+      "company": "PT Trigana Abadi Swakarsa",
+      "position": "Staff Purchasing",
+      "location": "Jakarta Pusat",
+      "date": "2026-10-06",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/posts/indri-wilya-rahayu-massie-48408a304_gmail-share-7505964316865581056-XcTS/",
+      "notes": "Via email ke hrgaopstas@gmail.com · CV terlampir"
+    },
+    {
+      "company": "Mitracomm (klien di Medan)",
+      "position": "Admin Sales",
+      "location": "Medan",
+      "date": "2026-10-06",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/posts/fadly-m-42b37617a_hiring-adminsales-adminsupport-share-7506527527314661376-d1hF/",
+      "notes": "Via email ke fadly.rozy@mitracomm.com · CV terlampir"
+    },
+    {
+      "company": "Dermaesthetics Academy",
+      "position": "Admin",
+      "location": "Bekasi (BCBD)",
+      "date": "2026-10-06",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/posts/rezka-andriansyah-67699b181_urgently-hiring-untuk-di-dermaesthetics-academy-share-7506613314253144064-SJxw/",
+      "notes": "Via email ke rezka.andriansyah10@gmail.com · CV terlampir"
+    },
+    {
+      "company": "Toko Cat Utama",
+      "position": "Driver",
+      "location": "Semarang",
+      "date": "2026-10-06",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/posts/arkenrsm_lowongankerja-loker-karir-share-7505862000283926529-pHna/",
+      "notes": "Via email ke HR@utamapaint.com · CV terlampir"
+    },
+    {
+      "company": "PT Sumber Sukses Mechinery",
+      "position": "Admin Logistik",
+      "location": "Workshop/Fabrikasi",
+      "date": "2026-10-06",
+      "status": "dilamar",
+      "url": "https://www.linkedin.com/posts/nabila-hanifah-72587b19b_lowongan-pekerjaan-admin-logistik-share-7503385100357632001-JOpp/",
+      "notes": "Via email ke ssmrecruitment.hrd@gmail.com · CV terlampir"
+    },
+    {
+      "company": "Universitas Katolik Musi Charitas",
+      "position": "Staff Administrasi",
+      "date": "2026-10-07",
+      "location": "Palembang, Sumatera Selatan",
+      "status": "gagal_terkirim",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF. MENTAL 07-10-2026 06:52 WIB: tujuan salah ketik rektorat@ukmk.ac.id (domain ukmk.ac.id tidak ada/NXDOMAIN). Alamat benar: rektorat@ukmc.ac.id (terverifikasi dari situs resmi & loker). Menunggu kirim ulang — batas lamaran 9 Okt 2026.",
+      "url": ""
+    },
+    {
+      "company": "CV Surya Niagaraya",
+      "position": "Driver Pengiriman",
+      "date": "2026-10-07",
+      "location": "Indonesia",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "Rayspeed Asia",
+      "position": "Driver Operasional",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "CV Berkat Anugerah Jaya",
+      "position": "Pengiriman Barang",
+      "date": "2026-10-07",
+      "location": "Indonesia",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "Livly Baby Shop",
+      "position": "Admin",
+      "date": "2026-10-07",
+      "location": "Indonesia",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "Oemah Semar",
+      "position": "Admin Marketplace",
+      "date": "2026-10-07",
+      "location": "Indonesia",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "PT Hilltech",
+      "position": "Driver Operasional",
+      "date": "2026-10-07",
+      "location": "Sunter, Jakarta Utara",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "PT Hasjrat Multifinance",
+      "position": "Surveyor",
+      "date": "2026-10-07",
+      "location": "Manado",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "PT Travelindo Pesona Wisata",
+      "position": "Data Entry Specialist",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4474673179/"
+    },
+    {
+      "company": "PT Surya Pertiwi Tbk",
+      "position": "Warehouse Staff",
+      "date": "2026-10-07",
+      "location": "Tangerang",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4474020638/"
+    },
+    {
+      "company": "PT Chandra Asri Pacific Tbk",
+      "position": "Transportation Administrator",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4474663315/"
+    },
+    {
+      "company": "Ultra Voucher",
+      "position": "Warehouse Officer",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4476179132/"
+    },
+    {
+      "company": "Arkhadaya Energy",
+      "position": "Sales Admin",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4474257637/"
+    },
+    {
+      "company": "Scarlett Indonesia",
+      "position": "Executive Inventory Data Entry Admin",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4474258163/"
+    },
+    {
+      "company": "Viction.id",
+      "position": "Customer Relations Officer",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim · Dilihat tim perekrutan (notif LinkedIn 7 Okt 11:11 WIB)",
+      "url": "https://www.linkedin.com/jobs/view/4471323440/"
+    },
+    {
+      "company": "bukatravel.id",
+      "position": "Ticketing Operations",
+      "date": "2026-10-07",
+      "location": "Remote",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4475112991/"
+    },
+    {
+      "company": "PT Asuransi BRI Life",
+      "position": "Procurement Team Member",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4471283403/"
+    },
+    {
+      "company": "Phoenix Contact",
+      "position": "E-Commerce Product Registration",
+      "date": "2026-10-07",
+      "location": "Tangerang",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4472390437/"
+    },
+    {
+      "company": "Thamrin Group",
+      "position": "Purchasing Staff (PIM)",
+      "date": "2026-10-07",
+      "location": "Palembang",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4467341722/"
+    },
+    {
+      "company": "Thamrin Group",
+      "position": "Admin Sales Yamaha Tj. Enim",
+      "date": "2026-10-07",
+      "location": "Muara Enim",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4468520126/"
+    },
+    {
+      "company": "PT WII Refrigerasi Tama",
+      "position": "Admin",
+      "date": "2026-10-07",
+      "location": "Indonesia",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "PT Autorent Lancar Sejahtera",
+      "position": "Driver Staff",
+      "date": "2026-10-07",
+      "location": "Indonesia",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "PT Indomas",
+      "position": "Admin PR",
+      "date": "2026-10-07",
+      "location": "Indonesia",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "Komunitas Bambu",
+      "position": "Admin Gudang",
+      "date": "2026-10-07",
+      "location": "Indonesia",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "KJPP Sugianto Prasodjo dan Rekan",
+      "position": "Administrative Staff",
+      "date": "2026-10-07",
+      "location": "Indonesia",
+      "status": "gagal_terkirim",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF. MENTAL 07-10-2026 17:04 WIB: kjppsprs@gmail.com tidak ada (550 5.1.1). Alamat itu persis yang tercantum di loker lokersemarang.com (posting Maret 2025, ~18 bulan lalu) — email HR sudah tidak aktif, loker kemungkinan sudah tutup. Tidak ada alamat pengganti yang terverifikasi.",
+      "url": ""
+    },
+    {
+      "company": "Personal Driver (Jakarta)",
+      "position": "Personal Driver",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "email",
+      "notes": "Email + surat lamaran & CV PDF",
+      "url": ""
+    },
+    {
+      "company": "Electrum",
+      "position": "Surveyor Lapangan",
+      "date": "2026-10-07",
+      "location": "Jakarta Selatan",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4440118667/"
+    },
+    {
+      "company": "Terminal Flow Assurance",
+      "position": "Operations Coordinator",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4474968276/"
+    },
+    {
+      "company": "AlloFresh",
+      "position": "Buyer Admin",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4476520927/"
+    },
+    {
+      "company": "CV Gemilang Jaya Group",
+      "position": "Data Entry Operator",
+      "date": "2026-10-07",
+      "location": "Jakarta",
+      "status": "dilamar",
+      "channel": "linkedin",
+      "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+      "url": "https://www.linkedin.com/jobs/view/4475156834/"
+    }
+  ],
+  "updated": "2026-10-06 17:35 WIB"
 }
