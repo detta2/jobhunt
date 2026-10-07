@@ -416,6 +416,24 @@
       "channel": "linkedin",
       "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
       "url": "https://www.linkedin.com/jobs/view/4475156834/"
+    },
+    {
+      "company": "J&T Cargo Palembang",
+      "position": "Admin",
+      "date": "2026-10-08",
+      "status": "dilamar",
+      "via": "email",
+      "email": "irfaneffendi@jtcargo.id",
+      "notes": "Lamaran_jt-cargo.pdf"
+    },
+    {
+      "company": "Astra Daihatsu Plaju",
+      "position": "Admin",
+      "date": "2026-10-08",
+      "status": "dilamar",
+      "via": "email",
+      "email": "noventri.brginting@dso.astra.co.id",
+      "notes": "Lamaran_astra-daihatsu.pdf"
     }
   ],
   "updated": "2026-10-06 17:35 WIB"
