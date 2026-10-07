@@ -80,7 +80,7 @@ a.job:hover{text-decoration:underline}
     <div class="filters" id="filters"></div>
     <div style="overflow-x:auto">
     <table>
-      <thead><tr><th>Perusahaan</th><th>Posisi</th><th>Tanggal</th><th>Status</th><th>Catatan</th></tr></thead>
+      <thead><tr><th>Perusahaan</th><th>Posisi</th><th>Tanggal</th><th>Status</th><th>Sumber</th><th>Catatan</th></tr></thead>
       <tbody id="rows"></tbody>
     </table>
     </div>
@@ -161,6 +161,7 @@ function renderRows(){
       (x.location ? "<div class='meta'>"+x.location+"</div>" : "") + "</td>" +
       "<td>"+x.position+"</td><td class='meta'>"+(x.date||"—")+"</td>" +
       "<td><span class='badge "+cls+"'>"+lbl+"</span></td>" +
+      "<td class='meta'>"+(x.source ? (x.url ? "<a href='"+x.url+"' target='_blank' rel='noopener'>"+x.source+"</a>" : x.source) : "—")+"</td>" +
       "<td class='meta'>"+(x.notes||"—")+"</td></tr>";
   }).join("");
 }
