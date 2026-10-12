@@ -989,5 +989,137 @@
     "status": "gagal_terkirim",
     "channel": "email",
     "notes": "MENTAL 11-10-2026 12:38 & 14:49 WIB: 2x kirim ke hrdkurniapersada@gmail.com keduanya MENTAL 550 5.1.1 (alamat tidak ada). Alamat itu tidak tercantum di loker mana pun — kemungkinan salah tebak. Alamat HR benar per loker terkini (cakerja.com, mediainfokarir.id): hrd.plb.kpmm@gmail.com. Menunggu kirim ulang ke alamat benar — perlu tap Setuju."
+  },
+  {
+    "channel": "linkedin",
+    "company": "Laku6.com",
+    "date": "2026-10-12",
+    "location": "DKI Jakarta (Hybrid, Kontrak)",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4466679105/ (posting diposting ulang 2 hari lalu).",
+    "position": "General Affair Officer",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "Circlegeo",
+    "date": "2026-10-12",
+    "location": "Bandung, Jawa Barat",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4476273019/ (posting 2 hari lalu).",
+    "position": "CEO Office Associate (contract)",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "J&T Express",
+    "date": "2026-10-12",
+    "location": "Jakarta Utara (On-site, Kontrak)",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4477135987/ (posting 3 hari lalu).",
+    "position": "Front Office Receptionist",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "Ajaib",
+    "date": "2026-10-12",
+    "location": "Jakarta (Hybrid)",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4477636242/ (posting 2 hari lalu).",
+    "position": "Payment Operations Specialist",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "Accord Innovations",
+    "date": "2026-10-12",
+    "location": "Yogyakarta (On-site, Kontrak)",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4477266532/ (posting 8 jam lalu).",
+    "position": "Customer Service (Fresh Graduates)",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "Viction One",
+    "date": "2026-10-12",
+    "location": "Jakarta",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4476895936/ (posting 1 hari lalu).",
+    "position": "Customer Relation Division (Jakarta Area)",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "PT Impack Pratama Industri Tbk",
+    "date": "2026-10-12",
+    "location": "Kota Bogor, Jawa Barat",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4477291043/ (posting 2 menit lalu).",
+    "position": "Admin Operasional Staff",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "Viction One",
+    "date": "2026-10-12",
+    "location": "Jakarta",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4477217602/ (posting 10 jam lalu).",
+    "position": "Management Trainee (Jakarta)",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "Digital Realty Bersama",
+    "date": "2026-10-12",
+    "location": "Jakarta Timur",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4476591601/ (posting 4 hari lalu).",
+    "position": "Implementation Assistant",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "Concentrix",
+    "date": "2026-10-12",
+    "location": "Yogyakarta",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4475555443/ (posting 6 hari lalu).",
+    "position": "Customer Service Officer",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "Belmond",
+    "date": "2026-10-12",
+    "location": "Kuta Selatan, Bali",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4467817780/ (posting diposting ulang 2 hari lalu).",
+    "position": "Storekeeper Daily Worker",
+    "source": "LinkedIn",
+    "status": "terkirim"
+  },
+  {
+    "channel": "linkedin",
+    "company": "Codefeast",
+    "date": "2026-10-12",
+    "location": "Indonesia (Remote)",
+    "method": "easy_apply",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4475792352/ (posting 3 hari lalu).",
+    "position": "Data Annotator",
+    "source": "LinkedIn",
+    "status": "terkirim"
   }
 ]
