@@ -301,7 +301,7 @@
     "location": "Remote",
     "status": "dilamar",
     "channel": "linkedin",
-    "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim",
+    "notes": "Easy Apply · konfirmasi LinkedIn: lamaran terkirim · dilihat perusahaan 14 Okt 2026 (email LinkedIn)",
     "url": "https://www.linkedin.com/jobs/view/4475112991/",
     "source": "LinkedIn"
   },
@@ -1041,10 +1041,10 @@
     "date": "2026-10-12",
     "location": "Yogyakarta (On-site, Kontrak)",
     "method": "easy_apply",
-    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4477266532/ (posting 8 jam lalu).",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4477266532/ (posting 8 jam lalu). · DITOLAK 15 Okt 2026 (email LinkedIn)",
     "position": "Customer Service (Fresh Graduates)",
     "source": "LinkedIn",
-    "status": "terkirim"
+    "status": "ditolak"
   },
   {
     "channel": "linkedin",
@@ -1276,5 +1276,149 @@
     "position": "Finance Retail",
     "source": "LinkedIn",
     "status": "terkirim"
+  },
+  {
+    "company": "TACO Group",
+    "position": "Community Development Admin",
+    "date": "2026-10-15",
+    "location": "Jakarta Raya",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4477963858/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "PT Putragaya Wahana",
+    "position": "Billing & Collection Staff",
+    "date": "2026-10-15",
+    "location": "Area DKI Jakarta",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4477503538/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "PT. Prima Karya Sarana Sejahtera (Grup BRI)",
+    "position": "Secretary Division",
+    "date": "2026-10-15",
+    "location": "Jakarta Raya",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478423229/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "SIP Law Firm",
+    "position": "General Affair",
+    "date": "2026-10-15",
+    "location": "Jakarta Raya",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478425950/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "vplus platinum 8 indonesia",
+    "position": "Management Trainee",
+    "date": "2026-10-15",
+    "location": "Jakarta Raya",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478404468/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "Tamora Group",
+    "position": "Admin Padel Academy",
+    "date": "2026-10-15",
+    "location": "Kuta Utara",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4479248596/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "Life at Viction",
+    "position": "Customer Relations Officer (Jakarta Region)",
+    "date": "2026-10-15",
+    "location": "Jakarta Raya",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478465073/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "Viction.id",
+    "position": "Client Relation Staff",
+    "date": "2026-10-15",
+    "location": "Jakarta Raya",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478435551/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "Codefeast",
+    "position": "Data Annotator",
+    "date": "2026-10-15",
+    "location": "Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478404415/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "PT. Cyberindo Aditama",
+    "position": "Customer Relations Officer",
+    "date": "2026-10-15",
+    "location": "Jakarta Raya",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478195838/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "Viction.id (Branch Sona Topas)",
+    "position": "Junior Marketing Staff (Jakarta Area)",
+    "date": "2026-10-15",
+    "location": "Jakarta Raya",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478131220/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
+  },
+  {
+    "company": "POLY XIN GROUP CO., LTD.",
+    "position": "Admin Marketing",
+    "date": "2026-10-15",
+    "location": "Kota Tangerang",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478426925/",
+    "notes": "Easy Apply 15 Okt 2026 · konfirmasi email LinkedIn: lamaran terkirim"
   }
 ]
