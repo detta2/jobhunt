@@ -620,7 +620,8 @@
     "posisi": "Finance Staff",
     "link": "https://www.linkedin.com/jobs/view/4469432530/",
     "sumber": "LinkedIn Easy Apply",
-    "status": "dilamar"
+    "status": "ditolak",
+    "notes": " DITOLAK 20-10-2026 08:34 WIB: email LinkedIn (jobs-noreply) — tidak diteruskan prosesnya."
   },
   {
     "date": "2026-10-09",
@@ -1162,10 +1163,10 @@
     "date": "2026-10-13",
     "location": "Jakarta Raya",
     "method": "easy_apply",
-    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4465719550/ (diposting 1 bulan lalu).",
+    "notes": "LinkedIn Easy Apply. https://www.linkedin.com/jobs/view/4465719550/ (diposting 1 bulan lalu). DITOLAK 20-10-2026 10:08 WIB: email LinkedIn (jobs-noreply) — tidak diteruskan prosesnya.",
     "position": "Academic Administrator",
     "source": "LinkedIn",
-    "status": "terkirim"
+    "status": "ditolak"
   },
   {
     "channel": "linkedin",
@@ -1576,5 +1577,185 @@
     "source": "LinkedIn",
     "url": "https://www.linkedin.com/jobs/view/4479965608/",
     "notes": "Easy Apply 20 Okt 2026 · konfirmasi 'Lamaran Anda sudah dikirimkan ke PT. Mowilex!' · form 3 langkah, opsi 'Ikuti PT. Mowilex' tidak dicentang"
+  },
+  {
+    "company": "PT. Victory International",
+    "position": "Customer Relation Staff (Branch Satrio Tower)",
+    "date": "2026-10-21",
+    "location": "Jakarta Selatan, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480739505/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Viction.id",
+    "position": "Customer Relations Officer (Jakarta Area)",
+    "date": "2026-10-21",
+    "location": "Jakarta Raya, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480484680/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "J&T Express",
+    "position": "Staff Material Management",
+    "date": "2026-10-21",
+    "location": "Jakarta Utara, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4478951553/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Timedoor",
+    "position": "(Full-Time) Admin Marketing Staff",
+    "date": "2026-10-21",
+    "location": "Denpasar Selatan, Bali, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480441638/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Indogal Agro Trading",
+    "position": "Accounting Staff",
+    "date": "2026-10-21",
+    "location": "Jakarta Raya, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4474131620/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Dekoruma",
+    "position": "Merchandising Staff",
+    "date": "2026-10-21",
+    "location": "Jakarta Barat, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480344289/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "PT. Evo Manufacturing Indonesia",
+    "position": "WAREHOUSE STAFF",
+    "date": "2026-10-21",
+    "location": "Bali, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4476893488/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Viction.id (Branch Sona Topas)",
+    "position": "Management Trainee Program (Jakarta Area)",
+    "date": "2026-10-21",
+    "location": "Area DKI Jakarta, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480752300/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Viction.id",
+    "position": "Junior Marketing Staff (Jakarta Selatan)",
+    "date": "2026-10-21",
+    "location": "Jakarta Raya, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480757089/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Viction Generation",
+    "position": "Customer Relations",
+    "date": "2026-10-21",
+    "location": "Jakarta Raya, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480422553/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Viction One",
+    "position": "Customer Relations",
+    "date": "2026-10-21",
+    "location": "Jakarta Raya, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480420119/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Concentrix",
+    "position": "Customer Service (Bahasa Indonesia)",
+    "date": "2026-10-21",
+    "location": "Daerah Istimewa Yogyakarta, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4479257505/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "Viction Generation",
+    "position": "Marketing Staff (Jakarta District)",
+    "date": "2026-10-21",
+    "location": "Jakarta Raya, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480742685/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "PT. Victory International",
+    "position": "Junior Marketing Staff (Jakarta Area)",
+    "date": "2026-10-21",
+    "location": "Area DKI Jakarta, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480739738/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
+  },
+  {
+    "company": "PT. Victory International",
+    "position": "Management Trainee Staff (Jkt Area)",
+    "date": "2026-10-21",
+    "location": "Jakarta Raya, Indonesia",
+    "status": "dilamar",
+    "channel": "linkedin",
+    "method": "easy_apply",
+    "source": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/view/4480452616/",
+    "notes": "Easy Apply 21 Okt 2026 · terverifikasi di halaman 'Dilamar' LinkedIn · ekspektasi gaji Rp6.000.000, pengalaman tanpa bukti diisi '0'"
   }
 ]
